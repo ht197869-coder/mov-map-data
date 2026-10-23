@@ -1,0 +1,29 @@
+[
+  {
+    "id": "sample-1",
+    "shopName": "サンプル麺屋",
+    "genre": "ramen",
+    "latitude": 35.6595,
+    "longitude": 139.7005,
+    "url": "",
+    "postedAt": "2026-10-20"
+  },
+  {
+    "id": "sample-2",
+    "shopName": "サンプル珈琲",
+    "genre": "cafe",
+    "latitude": 35.6702,
+    "longitude": 139.7027,
+    "url": "",
+    "postedAt": "2026-09-02"
+  },
+  {
+    "id": "sample-3",
+    "shopName": "サンプル鮨",
+    "genre": "sushi",
+    "latitude": 35.6655,
+    "longitude": 139.7707,
+    "url": "",
+    "postedAt": "2026-03-15"
+  }
+]
